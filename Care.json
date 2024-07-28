@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Anxiety",
+    "symptoms": ["Excessive worry", "Restlessness", "Rapid heartbeat", "Difficulty concentrating"],
+    "ayurvedic_solutions": ["Practice yoga and meditation", "Drink chamomile tea", "Consume ashwagandha supplements"]
+  },
+  {
+    "name": "Asthma",
+    "symptoms": ["Shortness of breath", "Wheezing", "Coughing", "Chest tightness"],
+    "ayurvedic_solutions": ["Steam inhalation with eucalyptus oil", "Consume honey with black pepper", "Practice deep breathing exercises"]
+  },
+  {
+    "name": "Arthritis",
+    "symptoms": ["Joint pain", "Stiffness", "Swelling", "Limited range of motion"],
+    "ayurvedic_solutions": ["Apply warm sesame oil to joints", "Use turmeric in cooking", "Follow an anti-inflammatory diet"]
+  },
+  {
+    "name": "Digestive Problems",
+    "symptoms": ["Bloating", "Gas", "Indigestion", "Constipation"],
+    "ayurvedic_solutions": ["Eat cooked vegetables", "Drink warm water", "Consume triphala powder"]
+  },
+  {
+    "name": "Eczema",
+    "symptoms": ["Itchy skin", "Redness", "Dryness", "Inflammation"],
+    "ayurvedic_solutions": ["Apply coconut oil to affected areas, Consume neem leaves or neem capsules, Avoid spicy and acidic foods"]
+  },
+  {
+    "name": "High Blood Pressure",
+    "symptoms": ["Headache", "Dizziness", "Shortness of breath", "Chest pain"],
+    "ayurvedic_solutions": ["Reduce salt intake", "Practice pranayama", "Consume garlic and hawthorn berry"]
+  },
+  {
+    "name": "High Cholesterol Levels",
+    "symptoms": ["No specific symptoms", "May lead to heart disease"],
+    "ayurvedic_solutions": ["Consume guggul resin", "Include fenugreek seeds in your diet", "Practice regular exercise"]
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "symptoms": ["Joint pain", "Swelling", "Morning stiffness", "Fatigue"],
+    "ayurvedic_solutions": ["Apply castor oil to joints", "Use ginger and turmeric in cooking", "Avoid processed foods"]
+  }
+]
